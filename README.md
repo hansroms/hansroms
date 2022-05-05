@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hello! My name's Hans. 🧑🏻‍🦰 
+
+I make a lot of stuff in my spare time, mostly in Vue! For some projects I've worked on...
+https://www.habitrax.co/ - Habit tracking app. Features streaks, recurring todo list, journaling..
+https://www.rotorogame.xyz/ - A basic puzzle game to twiddle with.
+
 [![Hans's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansroms&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
